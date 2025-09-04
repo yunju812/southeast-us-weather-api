@@ -10,7 +10,7 @@ This project fetches current weather data for major Southeast U.S. cities using 
 
 ## Features
 - Fetches live weather data from API
-- Displays city-wise temperature and humidity plots
+- Displays temperature and humidity plots across cities
 - Uses `.env` file for secure API key
 
 ## How to Run
