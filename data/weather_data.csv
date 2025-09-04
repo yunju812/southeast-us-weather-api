@@ -1,0 +1,8 @@
+city,temperature,humidity,wind_speed,description,date
+Atlanta,74.89,68,8.05,clear sky,2025-09-04
+Miami,82.24,84,0.0,broken clouds,2025-09-04
+Orlando,83.43,81,6.91,clear sky,2025-09-04
+Tampa,83.53,78,10.36,broken clouds,2025-09-04
+Charlotte,72.91,70,8.05,few clouds,2025-09-04
+Nashville,71.91,85,6.91,haze,2025-09-04
+New Orleans,83.32,64,4.61,clear sky,2025-09-04
