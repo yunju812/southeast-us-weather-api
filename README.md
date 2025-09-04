@@ -1,4 +1,4 @@
-# Weather API Project – Southeast U.S. Cities
+# Weather API – Southeast U.S. Cities
 
 ## Description
 This project fetches current weather data for major Southeast U.S. cities using the OpenWeatherMap API. It displays temperature (°F) and humidity comparisons in bar charts.
